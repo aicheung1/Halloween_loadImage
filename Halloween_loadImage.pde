@@ -1,3 +1,4 @@
+/* @pjs preload="wildfire1.jpg"; */
 PImage img;
 
 void setup() {
